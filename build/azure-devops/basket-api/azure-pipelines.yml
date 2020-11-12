@@ -1,5 +1,5 @@
 variables:
-    registryEndpoint: registroubuntu.azurecr.io/eshop-registry
+    registryEndpoint: eshop-registry
 trigger:
   branches:
     include:
